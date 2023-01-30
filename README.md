@@ -1,5 +1,5 @@
 # todolist
-the stack is used in this project is:-
+the stack has used in this project is:-
 nodemon 
 expess
 ejs
